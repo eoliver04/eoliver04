@@ -1,5 +1,19 @@
-## Hi there, I'm Ernesto 👋
 ![Banner](./ChatGPT%20Image%2030%20ago%202025,%2012_50_22.png)
+
+
+## Hi there, I'm Ernesto 👋
+
+## 👨‍💻 About Me
+
+I'm a Junior Developer with 2 years of hands-on experience, currently specializing in **backend development with JavaScript**.  
+My goal is to grow into a **Full-Stack Developer** using JavaScript and its ecosystem, while staying open to learning and working with other technologies.  
+Passionate about building efficient solutions and continuously improving my skills.
+
+## 🤓 Current Work
+These days I'm working on a **Telegram Bot**, which you can find in my pinned repo called **Main-code**.  
+There you can check out my code, the functions I've built, and my skills using **Node.js**, **Express.js**, and **Grammy**.  
+It's still in beta and I'm actively updating it. If you're interested in testing it, you're more than welcome to try it out. Thanks! 😁
+
 
 ## 📊 GitHub Analytics  
 
@@ -34,6 +48,8 @@
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+
 
 <!--
 **eoliver04/eoliver04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
