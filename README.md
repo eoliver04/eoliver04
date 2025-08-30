@@ -1,5 +1,5 @@
 ## Hi there, is Ernesto 👋
-![Banner](./assets/ChatGPT Image 30 ago 2025, 12_50_22.png)
+![Banner](./ChatGPT Image 30 ago 2025, 12_50_22.png)
 
 <!--
 **eoliver04/eoliver04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
