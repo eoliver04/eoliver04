@@ -63,9 +63,7 @@ Passionate about building efficient solutions and continuously improving my skil
   <img src="https://streak-stats.demolab.com?user=eoliver04&theme=dark" height="220" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eoliver04&layout=compact&theme=monokai&hide_border=true" height="150" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=eoliver04&theme=react&area=true" height="300" />
@@ -73,8 +71,4 @@ Passionate about building efficient solutions and continuously improving my skil
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eoliver04/eoliver04/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eoliver04/eoliver04/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/eoliver04/eoliver04/output/pacman-contribution-graph.svg">
-</picture>
+
